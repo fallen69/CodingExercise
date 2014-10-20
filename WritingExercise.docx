@@ -1,0 +1,23 @@
+1.	Who are the three main competitors for Hannon Hill’s Cascade Server? How do they differentiate themselves?
+
+Joomla is a popular CMS system that touts use of use for consumers who have not prior knowledge of how a content management system works, 
+Wordpress is another choice for consumers without extensive knowledge of how content management systems function. It is used primarily for blogging in conjunction with PHP.  
+SharePoint is an old business standby used by several corporations to quickly create document repositories.
+
+2.	What is the difference between SharePoint and Cascade Server?
+SharePoint is optimized for Intranet document repositories, not for scalable high volume generic content management systems.
+
+3.	What are the three most popular web development technologies? What is the relationship with those and Cascade Server?
+JavaScript is used heavily on the client side to create scripted and dynamic webpages. Cascade Server uses TinyMCE as its WYSIWYG editor, TinyMCE uses JavaScript/jQuery for its configuration.
+jQuery is a very popular JavaScript framework for creating cross-browser compatible websites. Cascade Server needs to be able to run cross-browser, so this is a very important technology.
+PHP is a popular web development programming language. It is open source and easy to learn. Cascade Servers competitors use this programming language as their preferred method of development.  
+
+4.	What are the three main industry verticals for Hannon Hill? Why are they the main ones?
+Education is the primary consumer of Cascade Server services.
+Mobile Integration is needed to push CMS data to various devices.
+Cloud based solutions allow educators to simplify the costs of hosting their own hardware.
+
+5.	What are some of the new opportunities in the CMS market?
+Cloud based strategies are allowing CMS data to reach even more devices by lowering the barriers of entry that some consumers might face when deciding to peruse a CMS system for data management.
+
+Mobile is also becoming a big trend within the CMS industry as more consumers want responsive websites that can scale across multiple form factors. The CMS system has to be able to deliver content in a timely fashion with minimal network impact so that the end user experience is not effected.
